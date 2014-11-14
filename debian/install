@@ -1,0 +1,4 @@
+changelog.gz          /usr/share/doc/live-init-mx
+copyright             /usr/share/doc/live-init-mx
+issue                 /usr/share/antix-install
+etc/*                 /etc

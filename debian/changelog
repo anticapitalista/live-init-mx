@@ -1,0 +1,46 @@
+live-init-mx (0.2.3) unstable; urgency=low 
+ 
+  * removed compose:lwin, to XKBOPTIONS.
+  * removed ejectcd since it is in live initrd.
+  * updated antiX-init to include dpi for lightdm.
+  * openvpn added to lean disable services.
+  
+ -- anticapitalista <antiX@operamail.com>  Sun, 16 Mar 2014 23:00:00 +0200
+
+
+live-init-mx (0.2.2) unstable; urgency=low 
+ 
+  * Added compose:lwin, to XKBOPTIONS.
+  
+ -- anticapitalista <antiX@operamail.com>  Sat, 08 Mar 2014 16:30:00 +0200
+
+
+live-init-mx (0.2.1) unstable; urgency=low 
+ 
+  * Fixed typo errors.
+  
+ -- anticapitalista <antiX@operamail.com>  Tue, 25 Feb 2014 23:10:00 +0200
+
+
+live-init-mx (0.2.0) unstable; urgency=low 
+ 
+  * Added live localisation to Xfce to antiX-init.
+  * Added and removed some options from disable-services.
+  * Removed Fr translation of antixsources.sh
+  
+ -- anticapitalista <antiX@operamail.com>  Sun, 09 Feb 2014 16:00:00 +0200
+
+
+live-init-mx (0.1.1) unstable; urgency=low 
+ 
+  * Fixed live localisation bug in antiX-init.
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 23 Jan 2014 01:30:00 +0200
+
+
+live-init-mx (0.1.0) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Tue, 14 Jan 2014 16:30:00 +0200
+
