@@ -8,5 +8,5 @@ Homepage: http://antix.mepis.org
 
 Package: live-init-mx
 Architecture: all
-Description: Essential scripts to create live MX-14.
+Description: Essential scripts to create live MX-15.
      Removed on install.          

@@ -1,3 +1,17 @@
+live-init-mx (0.3.0) unstable; urgency=low 
+ 
+  * Most have been moved to live initrd.
+  
+ -- anticapitalista <antiX@operamail.com>  Fri, 29 May 2015 12:38:00 +0200
+
+
+live-init-mx (0.2.4) unstable; urgency=low 
+ 
+  * removed haveged from lean cheat disable.
+  
+ -- anticapitalista <antiX@operamail.com>  Mon, 01 Dec 2014 21:44:00 +0200
+
+
 live-init-mx (0.2.3) unstable; urgency=low 
  
   * removed compose:lwin, to XKBOPTIONS.
